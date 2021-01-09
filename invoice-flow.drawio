@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T20:38:39.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mH_9IXm6FTOWdLMULT6O" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-09T21:39:26.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Wl0e2OQ0dCdk7yWvscnu" version="14.1.9" type="github">
   <diagram id="iuDBkxJldAP0yxHqMFkC" name="Page-1">
     <mxGraphModel dx="1185" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-24" value="A refund record will be created" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-26" value="Authorized Users Can Edit and Delete Invoices, Payments and Refunds if needed" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="850" y="480" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
