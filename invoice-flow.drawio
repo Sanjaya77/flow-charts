@@ -1,1 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T16:03:24.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MI-RW_VXk2hh-K3uVQZD" version="14.1.7" type="github"><diagram id="iuDBkxJldAP0yxHqMFkC" name="Page-1">7VrbcqM4EP0aP84UiIvtx8SJZ7KbpJJ1ze7mUQbZKCOQS8ixma9fCQQGyUnsLIYkNa6kCrWEEH26T7daDJxJvP3G4Cq6oSEiA2CF24FzMQDAdgEYyD8rzArJCHiFYMlwqAbtBDP8CymhpaRrHKK0MZBTSjheNYUBTRIU8IYMMkY3zWELSppPXcElMgSzABJT+g8OeaSkwLJ2Hd8RXkblo8dA9cSwHK0EaQRDuqmJnMuBM2GU8uIq3k4QkdorFVPcN32mt1oZQwk/5IarxwDd+39+xzOE7fvtY3Zz//TFV2vjWfnGKBQKUE3KeESXNIHkcic9Z3SdhEjOaonWbsw1pSshtIXwEXGeKTThmlMhinhMVK9YMMv+lfd/9YZeKXgQgi/WV8tyS8nFVj2jaGX11h1iOEYcMSU0taEUlNI1C9ALKnCVWUG2RPyFccpwpX5qD1C6/oaoWA3LxACGCOT4qWlAUNnhshq3Q0pcKLCOAG7cN3C+owNnj94ncKN3BZxa9RMk6/LlUtGeECwVAKxbJDhiOgA+jAUo58k8XVVaqqHN0ZY3wUk5oz/RhBIqVZvQREK+wIRoIkjwMhHNQDxPonD+hBjHgvLOVEeMwzC3l02EOZqtYI7CRhC8YUPPgifnRNsX1a16vZLqVYRwVXPToNtCFtWYtpS1DpDt9eFab3eD1nlJ3XpHcW6QCidn3MQJeBoAhR+quzQMqmW8HRbP8JsJQ5AjIbtKnigWOnrNZ/bZ8yEQHG7MjtNUkm0daM3uqax5aKjtQeRTr7PJ4SzBUIp/wXk+lTT+lbSA/DW884F3IecS1p4Wht+Snl23qWfPVLPbKWfYhkrfNWe0HhL3c4bra+6gA3BizhgZxn8WhrVg2zk/+LpCeueHMvrWdHRLPzw/+J73Gj84XfID6IUfFjThZfI3EC+c//4Xb9huP8lGFVc7Ig7bzNJnOFkSVM/U/8YiVe8/xwB+7xziG9q6imMUYpGekawouxC6EQqUM5XJmhXI/A3TZCAXOymLMdJ2QsxQwOW2SJj08TuhNnc4mg/J33TaDpCCpZrB4FAg9cy7PZoCn4OmSqWdmqaqgFHS1LhbmgLD33gdg5fn94uX00tp4ePipacBntWxf5nJcaNY5xMZeeZMXC15rtFmrLqDWRH0bmlR1NPAZxGN5+v0mUBUg5DAOSLnMPi5zK1BL/I1AV7kP634J+S+Bcf20KgUih5wMfRfNom3pyfOoQU9Wwe3vbBmZnN973GO9sm3pxXOnrSi282PWbqrKnbW2QZimemZrnRcYn2Uh7Spbn2nMuw7G3feVRKHtpgXJ0auY6t2dWAElGB3XiQbWa3R3mkR8LuJWXrNC4wOi1lnjMGsNkxRyLPP8YG31/CmB44v17UztWIF7QZQc2f4FwqQ1C6wRHSMkXrHD+Hqns6svfs6MCucvZf3TwiAO9LIdk9o67TuD8aG/m9mF7K2AZOcSkpbX6zzyVaFyYsroZ5cGRzDWke70PVa3dCdxQUHOot/ssDomHnIYlA7PrSwTO6nP66vH/K3F7OVpSke5f3NkRNCU6FKI3e5JCkypcUUc0hgkk+xwfmS5/J6vQohl1PpG4QKLbvlTULlliFMo+oJbeCu5f+Vz9Zwrz6f6ib/dz5JmcTpqPqul7XkR1pdbrtLCv+N19vKJMOOP81wnvmmqWA8zmCSwqCq9Ou8mCAUytHFcUBeLoHi/5HOTTr8jPUS3dnsPXFyX1Jj62di7fGlmbXLeok1XQuvQjJxOVNwfpDEXS8jlqfD/e3Rzbz9U1ekNP3vKQl2WpFyzLT9jtEAyQwsP3K0/tjDPu/VuvWK6/CEB8KiuftivYgfuw//ncv/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-09T20:27:07.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="te-e9uv9jCtGR4V143HP" version="14.1.9" type="github">
+  <diagram id="iuDBkxJldAP0yxHqMFkC" name="Page-1">
+    <mxGraphModel dx="1185" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IjceQ6KHiSei1QxjyMQv-4" target="IjceQ6KHiSei1QxjyMQv-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IjceQ6KHiSei1QxjyMQv-4" target="IjceQ6KHiSei1QxjyMQv-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-4" value="Is Client New?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IjceQ6KHiSei1QxjyMQv-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-5" value="Create Invoice&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-7" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IjceQ6KHiSei1QxjyMQv-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-8" value="Add Client" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-10" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="655" y="50" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IjceQ6KHiSei1QxjyMQv-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-14" value="Single Client View" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-16" value="Immediately following invoice creation , page redirects to&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="265" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IjceQ6KHiSei1QxjyMQv-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IjceQ6KHiSei1QxjyMQv-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IjceQ6KHiSei1QxjyMQv-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-20" value="Is Client&lt;br&gt;&amp;nbsp;Paying Now?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="330" y="340" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="265" y="360" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-25" value="Invoice Awaits&lt;br&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="90" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;exitX=0.431;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IjceQ6KHiSei1QxjyMQv-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="370" />
+              <mxPoint x="625" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-26" value="Receive Payments" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="565" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="480" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-29" value="MSD can receive full payment or partial payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
+          <mxGeometry x="565" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-33" value="If Invoice is FULLY paid , the invoice is Closed&lt;br&gt;Else&lt;br&gt;the balance will be updated" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="480" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IjceQ6KHiSei1QxjyMQv-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="IjceQ6KHiSei1QxjyMQv-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-34" value="Is the transaction &lt;br&gt;needs creating a job" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="320" y="510" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-36" value="No Further Action" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="90" y="555" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-38" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="260" y="540" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IjceQ6KHiSei1QxjyMQv-39" value="Proceed to Job" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="330" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Invoices&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1030" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-2" value="Account Payable" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="685" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-4" value="&lt;font style=&quot;font-size: 25px&quot;&gt;-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1050" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1059.58" as="targetPoint" />
+            <mxPoint x="550" y="1059.58" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Payments&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1030" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1170" as="targetPoint" />
+            <mxPoint x="330" y="1170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Payments&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-12" value="Cash at Hand" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="415" y="1160" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
