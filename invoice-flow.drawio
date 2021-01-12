@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T21:42:08.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="9Ese-BJpB4OVY2mRBgzr" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T20:29:34.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="gXywGUSQsV9p0oZ1svq-" version="14.1.9" type="github">
   <diagram id="iuDBkxJldAP0yxHqMFkC" name="Page-1">
-    <mxGraphModel dx="1185" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,79 +113,85 @@
         <mxCell id="IjceQ6KHiSei1QxjyMQv-39" value="Proceed to Job" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="330" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Invoices&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="940" width="130" height="60" as="geometry" />
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Invoices&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="190" y="930" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-2" value="Account Payable" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="685" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-2" value="Account Recievable" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="910" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-4" value="&lt;font style=&quot;font-size: 25px&quot;&gt;-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="960" width="20" height="20" as="geometry" />
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-4" value="&lt;font style=&quot;font-size: 25px&quot;&gt;-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="950" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="969.5799999999999" as="targetPoint" />
-            <mxPoint x="550" y="969.5799999999999" as="sourcePoint" />
+            <mxPoint x="870" y="959.9999999999999" as="targetPoint" />
+            <mxPoint x="750" y="959.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Payments&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="940" width="130" height="60" as="geometry" />
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Payments&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="930" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="1089.58" as="targetPoint" />
             <mxPoint x="580" y="1089.58" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Payments&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Sum All Payments&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="190" y="1050" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-12" value="Cash at Hand" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-12" value="Cash at Hand" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="700" y="1080" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-13" value="&lt;font style=&quot;font-size: 25px&quot;&gt;-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-13" value="&lt;font style=&quot;font-size: 25px&quot;&gt;-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1070" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-14" value="&lt;b&gt;Refunds&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-14" value="&lt;b&gt;Refunds&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="1050" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uz0tbaiB9I_7Ti3Rufkm-15">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uz0tbaiB9I_7Ti3Rufkm-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-15" value="Payment View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-15" value="Payment View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="190" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-16" value="&lt;b&gt;Refund Procedure&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-16" value="&lt;b&gt;Refund Procedure&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="1190" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-18" value="if Refund" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-18" value="if Refund" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="1290" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uz0tbaiB9I_7Ti3Rufkm-19" target="Uz0tbaiB9I_7Ti3Rufkm-20">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uz0tbaiB9I_7Ti3Rufkm-19" target="Uz0tbaiB9I_7Ti3Rufkm-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-19" value="Refund Button Click&lt;br&gt;(Only for Authorized Users)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-19" value="Refund Button Click&lt;br&gt;(Only for Authorized Users)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="430" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uz0tbaiB9I_7Ti3Rufkm-20" target="Uz0tbaiB9I_7Ti3Rufkm-22">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uz0tbaiB9I_7Ti3Rufkm-20" target="Uz0tbaiB9I_7Ti3Rufkm-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-20" value="Enter Refund Input&amp;nbsp;&lt;br&gt;Save" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-20" value="Enter Refund Input&amp;nbsp;&lt;br&gt;Save" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uz0tbaiB9I_7Ti3Rufkm-22" target="Uz0tbaiB9I_7Ti3Rufkm-24">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uz0tbaiB9I_7Ti3Rufkm-22" target="Uz0tbaiB9I_7Ti3Rufkm-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-22" value="Payment Get Updated with Refund Reference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-22" value="Payment will note change" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-24" value="A refund record will be created" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-24" value="A refund record will be created with a reference to the Payment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-26" value="Authorized Users Can Edit and Delete Invoices, Payments and Refunds if needed" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Uz0tbaiB9I_7Ti3Rufkm-26" value="Authorized Users Can Edit and Delete Invoices, Payments and Refunds if needed" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="850" y="480" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9gB7cVAnnxsUstEYRwlc-1" value="&lt;b&gt;Refunds&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="395" y="930" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9gB7cVAnnxsUstEYRwlc-2" value="&lt;font style=&quot;font-size: 25px&quot;&gt;-&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="950" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
